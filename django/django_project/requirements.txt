@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 cryptography==2.1.4
-Django==1.11.21
+Django==2.2.24
 django-cors-headers==3.0.2
 djangorestframework==3.9.4
 enum34==1.1.6
